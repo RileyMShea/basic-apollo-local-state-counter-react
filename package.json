@@ -1,7 +1,7 @@
 {
-  "name": "apollo-local-state",
+  "name": "basic-apollo-local-state-counter-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple counter to demonstrate local-state management\nwith apollo-client 3.  Uses apollo's reactive variable(s).",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
